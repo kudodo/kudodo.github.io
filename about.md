@@ -1,9 +1,12 @@
 ---
 layout: page
 title: "About"
-description: "Why use Project Pages?"
-header-img: "img/home-bg.jpg"
+description: "Internet Technology APについて"
+header-img: "img/home-bg-img2.png"
 ---
-aaaaaa
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
-	
+# 概要
+インターネットが普及し始めて20年以上が経ち、社会はインターネットを前提しとした仕組みに大きく変化した。
+　インターネットが社会を支えるインフラとして更に発展し、人類に貢献するためには、インフラとしての技術進歩、技術革新が不可欠である。本アカデミックプロジェクトでは、人類を支えるインフラとして必要となる新たなインターネット技術の研究・開発を行う。 
+ 
+ # メンバー 
+ 
