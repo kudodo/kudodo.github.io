@@ -7,6 +7,6 @@ subtitle:
 category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
-#サイトをリニューアルしました。
+# サイトをリニューアルしました。
 
 Internet Technology AP紹介ページとして新たに公開しました。
