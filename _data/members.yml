@@ -3,33 +3,57 @@
 - name: 村井 純（Jun Murai)
   role: 環境情報学部教授
   img: http://vu.sfc.keio.ac.jp/faculty_profile/photo/jun.png
-  github: 
-  gplus: https://twitter.com/shimshamshimmy 
   bio: 村井です. 
   url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=859452959bdc256a
   visible: true
    
 - name: 中村 修（Osamu Nakamura)
   role: 環境情報学部教授
-  img: https://avatars0.githubusercontent.com/u/4368625?v=3&s=460
-  github: davidbrough1
+  img: http://vu.sfc.keio.ac.jp/faculty_profile/photo/osamu.jpg
   bio: 中村です.
-  url: http://davidbrough.net 
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=173b9078ea37d21d 
   visible: true
   
 - name: 楠本博之
   role: 環境情報学部教授
-  img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
-  bio: Dr. Kalidindi’s research interests are broadly centered on designing material internal structure (including composition) for optimal performance in any selected application and identifying hybrid processing routes for its manufacture. To this end, he has employed a harmonious blend of experimental, theoretical, and numerical approaches in his research.
-  url: http://mined.gatech.edu/
+  img: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=55071ec008657874
+  bio: 楠本です。
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=55071ec008657874
   visible: true
-
 
 - name: 植原 啓介（Keisuke Uehara)
   role: 環境情報学部准教授
-  img: 
+  img: http://vu.sfc.keio.ac.jp/faculty_profile/photo/kei.jpg
   github: 
   gplus: 
   bio:  
-  url: 
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=8bc83796d5501a72
+  visible: true
+
+
+- name: 高汐一紀(Kazunori Takashio)
+  role: 環境情報学部准教授
+  img: http://vu.sfc.keio.ac.jp/faculty_profile/photo/kazu.jpg
+  github: 
+  gplus: 
+  bio:  高汐です。
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=8bc83796d5501a72
+  visible: true
+
+
+- name: 武田　圭史(Keiji Takeda)
+  role: 環境情報学部准教授
+  img: http://vu.sfc.keio.ac.jp/faculty_profile/photo/keiji.jpg
+  github: 
+  gplus: 
+  bio:  武田です。
+  url: https://vu.sfc.keio.ac.jp/faculty_profile//cgi/f_profile.cgi?id=4da5362a9eebedf5
+  visible: true
+
+   
+- name: 工藤 紀篤（Noriatsu Kudo)
+  role: 政策・メディア研究科特任助教
+  img: 
+  bio: 工藤です。
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=42dd79a990a030e8
   visible: true
