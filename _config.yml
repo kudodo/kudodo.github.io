@@ -1,16 +1,16 @@
 # Site settings
 title: Internet Technology AP
-description: "あいうえお12"
+description: "Internet Technology AP紹介ページです。"
 url: "https://kudodo.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
-header-img: img/home-bg.jpg
+baseurl: ""
+header-img: img/home-bg-img.png
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  projectpages
