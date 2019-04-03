@@ -1,15 +1,15 @@
 # Members
 
-- name: Ahmet Cecen
-  role: Data Scientist / Materials Informatics
-  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
-  github: ahmetcecen
-  gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio: Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology.  He earned a bachelor’s degree in Mechanical Engineering at Drexel University. Ahmet has been doing research in the fields of computational materials science and materials informatics for the past 6 years, throughout his undergraduate and graduate studies. His current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science. 
-  url: http://ahmetcecen.github.io/
+- name: 村井 純（Jun Murai)
+  role: 環境情報学部教授
+  img: http://vu.sfc.keio.ac.jp/faculty_profile/photo/jun.png
+  github: 
+  twitter: https://twitter.com/shimshamshimmy 
+  bio: 村井です. 
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=859452959bdc256a
   visible: true
    
-- name: David Brough
+- name: 中村 修（Osamu Nakamura)
   role: Data Scientist / Materials Informatics
   img: https://avatars0.githubusercontent.com/u/4368625?v=3&s=460
   github: davidbrough1
@@ -23,3 +23,12 @@
   bio: Dr. Kalidindi’s research interests are broadly centered on designing material internal structure (including composition) for optimal performance in any selected application and identifying hybrid processing routes for its manufacture. To this end, he has employed a harmonious blend of experimental, theoretical, and numerical approaches in his research.
   url: http://mined.gatech.edu/
   visible: false
+
+  - name: 村井純
+  role: Data Scientist / Materials Informatics
+  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
+  github: ahmetcecen
+  gplus: https://plus.google.com/+AhmetCecen-GPlus
+  bio: Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology.  He earned a bachelor’s degree in Mechanical Engineering at Drexel University. Ahmet has been doing research in the fields of computational materials science and materials informatics for the past 6 years, throughout his undergraduate and graduate studies. His current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science. 
+  url: http://ahmetcecen.github.io/
+  visible: true
