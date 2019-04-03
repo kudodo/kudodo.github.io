@@ -1,11 +1,11 @@
 ---
 layout: project
-title: "AI3 and SOI Asia"
+title: "Telemedicine"
 description: ""
 header-img: "img/home-bg.jpg"
 category: AI3
 ---
 # About
-
+遠隔医療プロジェクト
 # Project Web site
-http://www.soi.asia/
+TBD
