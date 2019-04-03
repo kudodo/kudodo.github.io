@@ -10,7 +10,8 @@
 - name: 中村 修（Osamu Nakamura)
   role: 環境情報学部教授
   img: http://vu.sfc.keio.ac.jp/faculty_profile/photo/osamu.jpg
-  bio: 中村です.
+  bio: 1983年、慶應義塾大学工学部卒業。同大学大学院理工学研究科にて1985年に修士号取得、1993年に博士号取得。1990年から1993年まで東京大学大型計算機センター助手を勤め、その後、慶應義塾大学環境情報学部にて助手、専任講師、助教授となり、2006年から慶應義塾大学環境情報学部教授となる。
+情報セキュリティ大学院大学客員教授も勤める。大学では主に計算機科学やInternet、メディアリテラシーについて教鞭をとり、最近では、日本政府によるIPv6推進委員会に参画するなど、常にリーダーとして日本国内のインターネット構築に携わっている。
   url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=173b9078ea37d21d 
   visible: true
   
@@ -78,9 +79,8 @@
   url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=749a2b7432e336cb
   visible: true
 
-
 - name: 鈴木　茂哉(Shigeya Suzuki)
-  role: 環境情報学部教授
+  role: 政策・メディア研究科特任教授
   img: 
   github: 
   gplus: 
@@ -89,7 +89,7 @@
   visible: true
 
 - name: 佐藤雅明(Masaaki Sato)
-  role: 環境情報学部教授
+  role: 政策・メディア研究科特任准教授
   img: http://vu.sfc.keio.ac.jp/faculty_profile/photo/masaaki1079.png
   github: 
   gplus: 
@@ -97,25 +97,42 @@
   url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=f6a054ad55c9fb6f
   visible: true
 
-- name: 
-  role: 環境情報学部教授
+- name: 大江　将史(Masafumi Oe)
+  role: 政策・メディア研究科特任講師
   img: 
   github: 
   gplus: 
-  bio:  鈴木です。
-  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=9f2c5add8ba05374
+  bio:  大江です。
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=6cf60d2fcc4c99cd
   visible: true
 
-- name: 鈴木　茂哉(Shigeya Suzuki)
-  role: 環境情報学部教授
+- name: 松谷　健史（Takeshi Matsuya)
+  role: 政策・メディア研究科特任講師
   img: 
   github: 
   gplus: 
-  bio:  鈴木です。
+  bio:  松谷です。
   url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=9f2c5add8ba05374
   visible: true
 
+- name: 空閑　洋平(Yohei Kuga)
+  role: 政策・メディア研究科特任講師
+  img: 
+  github: 
+  gplus: 
+  bio:  空閑です。
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=8f6e9a806982b08a
+  visible: true
    
+- name: タムリン，　アフマド フスニ(Achmad Husni Thamrin)
+  role: 政策・メディア研究科特任講師
+  img: 
+  github: 
+  gplus: 
+  bio:  フスニです。
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=25c24e3a3e279cf5
+  visible: true
+
 - name: 工藤 紀篤（Noriatsu Kudo)
   role: 政策・メディア研究科特任助教
   img: 
