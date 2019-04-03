@@ -35,7 +35,7 @@ header-img: "img/home-bg-img2.png"
 ### メンバー：
 説明説明説明説明
 ## Telemedicine
-### メンバー: 佐藤
-遠隔在宅医療
+### メンバー: 佐藤雅明,工藤紀篤,松谷健史
+[In-Line](https://www.kri.sfc.keio.ac.jp/ja/consortium/lis/) 
 
  
