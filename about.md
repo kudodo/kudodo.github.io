@@ -28,12 +28,13 @@ header-img: "img/home-bg-img2.png"
 ## miraikan連携
 ## W3C
 ## AI3 SOI Asia
-メンバー：
+### メンバー：husni
 説明説明説明説明
 ## autoid
-メンバー：
+### メンバー：
 説明説明説明説明
-## 
 ## Telemedicine
+### メンバー: 佐藤
+遠隔在宅医療
 
  
