@@ -1,7 +1,11 @@
 ---
 layout: project
-title: "Project 1"
-description: "Description of Project #1"
+title: "AI3 and SOI Asia"
+description: ""
 header-img: "img/home-bg.jpg"
 category: project1
 ---
+# About
+
+# Project Web site
+http://www.soi.asia/
